@@ -35,6 +35,7 @@ Key principles:
 - Every model is a hypothesis
 - Not every problem deserves automation
 - Choosing *not* to build is also a technical decision
+- We maintain a public research board to document ongoing questions and investigations. It is not a roadmap or delivery schedule.
 
 ---
 
